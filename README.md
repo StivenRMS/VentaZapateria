@@ -25,5 +25,8 @@ El proyecto sigue una estructura de directorios estándar utilizada en aplicacio
 - `web`: Contiene los recursos web, como archivos HTML, CSS, JavaScript y otros archivos estáticos.
 - `lib`: Contiene las bibliotecas externas utilizadas en el proyecto.
 
+### Triggers y Procedimientos Almacenados
+En la base de datos Oracle utilizada en este proyecto, se han implementado diversos triggers y procedimientos almacenados para mejorar la funcionalidad y el rendimiento del sistema. Estos componentes adicionales se encargan de realizar acciones automatizadas en respuesta a ciertos eventos o de ejecutar lógica de negocio compleja.
+
 
 ¡Siéntete libre de contribuir a este proyecto mediante la presentación de informes de errores, solicitudes de funciones o solicitudes de extracción!
